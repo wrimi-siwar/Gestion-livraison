@@ -1,1 +1,2 @@
 # Gestion-livraison
+				"The project represents a complete renovation of BELMWASSEL, incorporating a groundbreaking mobile application developed in React Native, an optimized website built with Angular, and a robust backend based on Spring Boot. In addition to delivery features, the project expands its capabilities by introducing automated access management for various users and a dedicated statistics section to facilitate informed decision-making.",
